@@ -1,5 +1,2 @@
 # LEGOKart
-
-This repository is dedicated to our 3-INFO year project wich include M5Stacks and Lego Mindstorms
-
-TODO : continue readme
+ Dans ce projet, nous avons reproduit un jeu de courses de voitures en legos Mindstorm contrôlables par téléphone. Il y'a un M5Stack  et 2 moteurs dans chaque kart. Le téléphone envoie des commandes au M5Stack qui lui-même envoie des commandes au moteurs de la voiture pour la faire bouger. Vous trouverez dans ce dossier tous les éléments constitutifs du projet. Le M5Stack a été programmé en C/C++ sur Arduino, la page web est codée en html/css/javascript. 
